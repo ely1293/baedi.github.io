@@ -3,7 +3,7 @@ layout: post
 title:  "깃허브 페이지 개설"
 date:   2021-06-05 19:57:41 +0530
 comment: true
-categories: C#
+categories: Csharp
 ---
 2021-06-05 깃허브 페이지 개설.
 
