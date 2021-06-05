@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "깃허브 페이지 개설"
+date:   2021-06-05 19:57:41 +0530
+comment: true
+categories: Javascript NodeJS
+---
+2021-06-05 깃허브 페이지 개설.
+
+게시물 테스트
+
+```Csharp
+class TestClass(){
+	private String name;
+	private String date;
+
+	public TestClass(){
+		this.name = "baedi";
+		this.date = "2021-06-05";
+	}
+
+	// 정보 출력
+	public void myInfo(){
+		Console.WriteLine($"Name : {this.name}");
+		Console.WriteLine($"Github pages open : {this.date}");
+	}
+}
+```
+![my_profile](https://baedi.github.io/assets/portfolio_.png)
+
+My github : [My Github][my-github]
+
+[my-github]: https://github.com/baedi
