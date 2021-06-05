@@ -9,7 +9,7 @@ categories: Javascript NodeJS
 
 게시물 테스트
 
-```Csharp
+```cs
 class TestClass(){
 	private String name;
 	private String date;
