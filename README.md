@@ -3,4 +3,4 @@
 
 ## Source
 forked from plainwhite-jekyll (by samarsault)
-link : https://github.com/baedi/plainwhite-jekyll   
+link : https://github.com/samarsault/plainwhite-jekyll   
