@@ -203,7 +203,7 @@ CUDA 설치 이후 Prompt 창을 다시 껐다가 켜서 mlagents-learn 명령�
 > mlagents-learn C:\Users\사용자\Desktop\trainer_config.yaml --run-id=TestBigJump   
 >      
 
-![mlagents_learn_start](https://baedi.github.io/assets/post/20210627_02_15_mlagents_learn_start.png)   
+![mlagents_learn_start_f2](https://baedi.github.io/assets/post/20210627_02_15_mlagents_learn_start_f2.png)   
 
 유니티 로고 창이 나타나고 Listening on port 5004. Start training byh pressing the Play button메시지가 나타나면 유니티에서 시작 버튼을 누르면 학습이 시작되고 빠르게 학습 과정을 확인할 수 있다.      
 
