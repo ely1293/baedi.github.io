@@ -54,7 +54,7 @@ Alert의 경우 UncontrolledAlert와 동일한 기능을 수행하도록 속성�
 
 만약 터미널에서 부트스트랩과 리액트스트랩을 받고 위와 같은 문제가 발생했다면 먼저 아래 절차를 시도해보자.   
 >   
-> 1. Bootstrap 사이트 방문 : <https://getbootstrap.com/docs/4.0/getting-started/download/>
+> 1. Bootstrap 사이트 방문 : <https://getbootstrap.com/docs/4.4/getting-started/download/>
 >   
 > 2. Compiled CSS and JS 의 본문 아래에 있는 Download 버튼을 통해 부트스트랩을 다운로드한다.
 >   
@@ -72,3 +72,6 @@ Alert의 경우 UncontrolledAlert와 동일한 기능을 수행하도록 속성�
 ![reactstrap_issue_complete](https://baedi.github.io/assets/post/20210612_01_reactstrapissue_complete.png)
 
 순서대로 진행한 뒤 화면을 갱신하면 위 화면처럼 정상적으로 부트스트랩 css 스타일이 적용된다.   
+
++   
+혹시나 부트스트랩을 적용시켰는데 일부 컴포넌트가 제대로 표시되지 않는다면 부트스트랩을 최신 버전으로 받아볼 것을 권장한다.   
