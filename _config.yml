@@ -71,3 +71,6 @@ theme: plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+# Remote theme
+remote_theme: samarsault/plainwhite-jekyll
