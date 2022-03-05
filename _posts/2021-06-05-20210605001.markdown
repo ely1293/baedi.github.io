@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "깃허브 페이지 개설"
+date:   2021-06-05 19:57:41 +0530
+comment: true
+categories: java
+---
+
+2021-06-05 깃허브 페이지 개설.
+
+게시물 테스트
+
+```java
+import java.io.*;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
+				bw.flush();
+				bw.close();
+				br.close();
+		}
+}
+```
+
+![my_profile](https://baedi.github.io/assets/portfolio_.png)
+
+My github : [My Github][my-github]
+
+[my-github]: https://github.com/baedi
