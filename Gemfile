@@ -3,4 +3,6 @@
 source "https://rubygems.org"
 gemspec
 
-gem "plainwhite"
+#gem "plainwhite"
+
+gem "webrick", "~> 1.7"
