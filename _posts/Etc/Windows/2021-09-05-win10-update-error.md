@@ -2,8 +2,8 @@
 layout: post
 title:  "윈도우10 21H1 업데이트 0x20017 에러 해결 후기"
 date:   2021-09-05 17:14:30 +0530
-comment: true
-categories:
+comments: true
+categories: [Etc, Windows]
 ---
 
 데스크톱에 윈도우10으로 잘 이용하고 있다가 최근에 윈도우 업데이트에서 문제가 발견한 것을 확인하였다.   

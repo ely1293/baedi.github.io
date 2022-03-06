@@ -2,8 +2,8 @@
 layout: post
 title:  "Bootstrap css 적용시 일부 컴포넌트 스타일 깨짐 현상"
 date:   2021-06-12 15:46:17 +0530
-comment: true
-categories: javascript
+comments: true
+categories: [Programming, Javascript]
 ---
 
 리액트를 독학하면서 reactstrap와 bootstrap 패키지를 받아서 부트스트랩 모듈을 다뤄보는 시간을 가질 수 있었다.   

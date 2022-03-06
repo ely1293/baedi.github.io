@@ -2,8 +2,8 @@
 layout: post
 title:  "유니티 ML Agents 설치 및 세팅"
 date:   2021-06-27 18:28:32 +0530
-comment: true
-categories:
+comments: true
+categories: [Unity, ML Agents]
 ---
 
 본 문서는 유니티의 ML-Agents를 구동하기 위하여 필요한 툴과 세팅환경에 대해 다루었다.   
