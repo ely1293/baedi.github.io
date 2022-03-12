@@ -32,9 +32,9 @@ Git : <https://git-scm.com/>
 
 해당 사이트에서 우측 하단에 최신버전을 다운로드받을 수 있는 버튼이 있다.   
 
-![git_install_01](https://baedi.github.io/assets/2022-03-12/git-install-01.png)   
+![git_install_01](https://baedi.github.io/assets/post/2022-03-12/git-install-01.png)   
 
-![git_install_02](https://baedi.github.io/assets/2022-03-12/git-install-02.png)   
+![git_install_02](https://baedi.github.io/assets/post/2022-03-12/git-install-02.png)   
 
 Click here to download 를 눌러 64비트 최신 버전을 다운로드받을 수 있다.   
 
@@ -47,7 +47,7 @@ Click here to download 를 눌러 64비트 최신 버전을 다운로드받을 �
 > &nbsp;   
 
 3. 컴포넌트 선택   
-![git_install_03](https://baedi.github.io/assets/2022-03-12/git-install-03.png)   
+![git_install_03](https://baedi.github.io/assets/post/2022-03-12/git-install-03.png)   
 ><b>Additional icons (추가 아이콘)</b>   
 ><b> - On the Desktop</b> : 바탕화면에 Git Bash 아이콘 추가
 >
@@ -71,17 +71,17 @@ Click here to download 를 눌러 64비트 최신 버전을 다운로드받을 �
 > &nbsp;   
 
 5. Git 기본 편집기 사용   
-![git_install_04](https://baedi.github.io/assets/2022-03-12/git-install-04.png)   
+![git_install_04](https://baedi.github.io/assets/post/2022-03-12/git-install-04.png)   
 >Git 기본 편집기를 설정할 수 있다. 기본값은 Vim으로 설정되어 있다.   
 > &nbsp;   
 
 6. Git 리포지토리 생성시 초기 브랜치 이름 설정   
-![git_install_05](https://baedi.github.io/assets/2022-03-12/git-install-05.png)   
+![git_install_05](https://baedi.github.io/assets/post/2022-03-12/git-install-05.png)   
 >기본 선택시(Let Git decide) 나중에 리포지토리를 생성할 경우 초기 branch 이름을 "master"로 설정한다.   
 > &nbsp;   
 
 7. PATH 환경설정   
-![git_install_06](https://baedi.github.io/assets/2022-03-12/git-install-06.png)   
+![git_install_06](https://baedi.github.io/assets/post/2022-03-12/git-install-06.png)   
 > <b>Use Git from Git Bash only</b> :   
 > Git Bash에서만 Git 명령어 사용 가능.   
 >
@@ -93,7 +93,7 @@ Click here to download 를 눌러 64비트 최신 버전을 다운로드받을 �
 > &nbsp;   
 
 8. SSH 실행 파일 선택   
-![git_install_07](https://baedi.github.io/assets/2022-03-12/git-install-07.png)   
+![git_install_07](https://baedi.github.io/assets/post/2022-03-12/git-install-07.png)   
 > <b>Use bundled OpenSSH (번들 OpenSSH 사용)</b> :    
 > 이 경우 Git과 함께 제공되는 ssh.exe가 사용됨.   
 >
@@ -102,7 +102,7 @@ Click here to download 를 눌러 64비트 최신 버전을 다운로드받을 �
 > &nbsp;   
 
 9. HTTPS 전송 백엔드 선택   
-![git_install_08](https://baedi.github.io/assets/2022-03-12/git-install-08.png)   
+![git_install_08](https://baedi.github.io/assets/post/2022-03-12/git-install-08.png)   
 > <b>Use the OpenSSL library (OpenSSL 라이브러리 사용)</b> :   
 > 서버 인증서는 ca-buncle.crt 파일을 사용하여 검증함.   
 >
@@ -111,7 +111,7 @@ Click here to download 를 눌러 64비트 최신 버전을 다운로드받을 �
 > &nbsp;
 
 10. 줄 끝 변환 구성   
-![git_install_09](https://baedi.github.io/assets/2022-03-12/git-install-09.png)   
+![git_install_09](https://baedi.github.io/assets/post/2022-03-12/git-install-09.png)   
 > <b>Checkout Windows-style, commit Unix-style line endings</b> :   
 > 텍스트 파일을 checking out시 LF를 CRLF로 변환하고, 텍스트 파일을 commit 할 경우 CRLF를 LF로 변환한다. (Windows에서 권장하는 옵션)   
 >
@@ -123,7 +123,7 @@ Click here to download 를 눌러 64비트 최신 버전을 다운로드받을 �
 > &nbsp;
 
 11. Git Bash와 함께 사용할 터미널 에뮬레이터 구성   
-![git_install_10](https://baedi.github.io/assets/2022-03-12/git-install-10.png)   
+![git_install_10](https://baedi.github.io/assets/post/2022-03-12/git-install-10.png)   
 > <b>Use MinTTY (the default terminal of MSYS2)</b> :   
 > Git Bash에 MinTTY(MSYS2의 기본 터미널)를 터미널 에뮬레이터로 사용한다. MinTTY에서 작동하려면 Windows 콘솔 프로그램을 winpty를 통해 시작해야 한다.   
 >
@@ -132,7 +132,7 @@ Click here to download 를 눌러 64비트 최신 버전을 다운로드받을 �
 > &nbsp;   
 
 12. git pull의 기본 동작 설정   
-![git_install_11](https://baedi.github.io/assets/2022-03-12/git-install-11.png)   
+![git_install_11](https://baedi.github.io/assets/post/2022-03-12/git-install-11.png)   
 > <b>Default (fast-forward or merge)</b> :   
 > git pull의 표준 동작. 가능하면 현재 branch를 가져온 branch로 fast-forward하고, 그렇지 않으면 병합 커밋을 만든다.   
 >
@@ -144,7 +144,7 @@ Click here to download 를 눌러 64비트 최신 버전을 다운로드받을 �
 > &nbsp;   
 
 13. 자격 증명 도우미 선택   
-![git_install_12](https://baedi.github.io/assets/2022-03-12/git-install-12.png)   
+![git_install_12](https://baedi.github.io/assets/post/2022-03-12/git-install-12.png)   
 > <b>Git Credential Manager (Git 자격 증명 관리자)</b> :   
 > 교차 플랫폼 Git Credential Manager 사용   
 >
@@ -153,7 +153,7 @@ Click here to download 를 눌러 64비트 최신 버전을 다운로드받을 �
 > &nbsp;
 
 14. 추가 옵션   
-![git_install_13](https://baedi.github.io/assets/2022-03-12/git-install-13.png)   
+![git_install_13](https://baedi.github.io/assets/post/2022-03-12/git-install-13.png)   
 > <b>Enable file system caching (파일 시스템 캐싱 사용)</b> :   
 > 파일 시스템 데이터는 대량으로 읽히고 특정 작업에 대해 메모리에 캐시되어 ("core.fscache"는 "true"로 설정됨) 성능이 크게 향상된다.   
 >
@@ -162,7 +162,7 @@ Click here to download 를 눌러 64비트 최신 버전을 다운로드받을 �
 > &nbsp;   
 
 15. 실험 옵션 구성   
-![git_install_14](https://baedi.github.io/assets/2022-03-12/git-install-14.png)   
+![git_install_14](https://baedi.github.io/assets/post/2022-03-12/git-install-14.png)   
 > <b>Enable experimental support for pseudo consoles.</b> :   
 > Git Bash 창에서 Winpty를 사용하지 않고 Node나 Python 같은 네이티브 콘솔 프로그램을 실행할 수 있다. (그러나 현재 알려진 버그 존재함)   
 >
@@ -170,5 +170,5 @@ Click here to download 를 눌러 64비트 최신 버전을 다운로드받을 �
 > 기본 제공 파일 시스템 감시기를 자동으로 실행하여 많은 파일이 포함된 작업 트리에서 일반적인 명령어(git status, git add, git commit 등)의 속도를 높여준다.   
 > &nbsp;
 
-![git_install_15](https://baedi.github.io/assets/2022-03-12/git-install-15.png)   
+![git_install_15](https://baedi.github.io/assets/post/2022-03-12/git-install-15.png)   
 설치가 끝나면 윈도우에 Git을 검색하여 Git Bash를 실행하여 Git을 사용할 수 있다.
